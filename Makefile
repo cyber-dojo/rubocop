@@ -1,0 +1,3 @@
+
+image:
+	docker-compose build
