@@ -5,3 +5,4 @@ services:
   rubocop:
     build:
       context: .
+    image: cyberdojo/rubocop
